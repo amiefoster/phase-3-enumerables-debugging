@@ -1,4 +1,13 @@
 # Write your code here
+
+#Split the string on " " to get access to each word in the sentence
+##Reverse each word, and add it to a new array
+    #Create a new array
+    #Iterate over the array of words
+    #Reverse each word, and add it to the new array
+#Join the array of words on " " to create one string
+
+
 require 'pry'
 
 def reverse_each_word(sentence)
